@@ -4,8 +4,6 @@ This project demonstrates the use of a pretrained ResNet50 model for semantic im
 ---
 
 ### Dataset
-Dataset Link: https://drive.google.com/file/d/1xrQK9pLB2UiWy0pxdXU-WWbrSZI2A-s4/view
-
 
 **Example image**
 
