@@ -1,9 +1,14 @@
 ## Semantic Segmentation
-This project demonstrates the use of a pretrained ResNet50 model for semantic image segmentation. The goal is to identify and separate different objects or regions within an image by applying a segmentation model.
+This project demonstrates the use of a pretrained ResNet50 model for semantic image segmentation.<br>
+The goal is to identify and separate different objects or regions within an image by applying a segmentation model.
 
 ---
 
 ### Dataset
+
+The dataset consis of real images and their respective ground truth masks.<br>
+Each image can be segmented into at most 9 different regions
+
 
 **Example image**
 
